@@ -17,5 +17,6 @@ public class ReversedInt {
         for (int num : arr) {
             System.out.print(num + " ");
         }
+        //just a comment
     }
 }
